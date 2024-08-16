@@ -3,8 +3,8 @@
 import { connect } from 'cloudflare:sockets';
 
 const listProxy = [
-    { path: '/id1', proxy: '35.219.50.99' },
-    { path: '/id2', proxy: '23.248.170.129' },
+    { path: '/sg1', proxy: '8.219.199.220' },
+    { path: '/sg2', proxy: '8.219.1.169' },
     //tambahin sendiri
 ];
 let proxyIP;
